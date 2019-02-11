@@ -1,0 +1,96 @@
+.img {
+  height: 435px;
+  width: 494px;
+  border: solid 1px black;
+  position: relative;
+  margin: auto;
+  margin-top: 110px;
+}
+
+body {
+  background-image: url("../img/bg.gif")
+}
+
+#spaceJam {
+  position: absolute;
+  top: 130px;
+  left: 104px;
+}
+
+#pressBox {
+  position: absolute;
+  top: 80px;
+  left:30px;
+}
+
+#jamCentral {
+  position: absolute;
+  top:25px;
+  left: 200px;
+
+}
+
+#bBall {
+  position: absolute;
+  top:25px;
+  left:300px;
+
+}
+
+#tunes {
+  position: absolute;
+  top:50px;
+  left:380px;
+
+}
+
+#lineup{
+  position: absolute;
+  top: 170px;
+  left:10px;
+
+}
+
+#jumpStat {
+  position: absolute;
+  top:175px;
+  left:435px;
+
+
+}
+
+#jrJam {
+  position: absolute;
+  top: 240px;
+  left:10px;
+
+
+}
+
+#souv {
+  position: absolute;
+  top: 300px;
+  left:70px;
+
+}
+
+#siteMp {
+  position: absolute;
+  top: 365px;
+  left:180px;
+
+}
+
+#btJ {
+  position: absolute;
+  top: 325px;
+  left:320px;
+
+}
+
+#wbStu {
+  position: absolute;
+  top:255px;
+  left:385px;
+
+}
